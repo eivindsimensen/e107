@@ -6,7 +6,7 @@
 |        GNU General Public License (http://gnu.org).
 |        Last Modified: 2015/10/24 23:24:04
 |
-|        $Author: Administrador $
+|        $Author: Eivind Simensen : https://kvtd.tech $
 +---------------------------------------------------------------+
 */
 setlocale(LC_ALL,  'no_NO.UTF-8', 'no_NO.utf8', 'no');
