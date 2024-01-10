@@ -103,7 +103,7 @@ define("LAN_FILES", "Filer");
 define("LAN_SIZE", "Størrelse");
 define("LAN_VERSION", "Versjon");
 define("LAN_DOWNLOAD", "Last ned");
-define("LAN_DOWNLOAD_NO_PERMISSION", "Fil ikke funnet eller du har  ikke tilatelse til å laste ned denne filen");
+define("LAN_DOWNLOAD_NO_PERMISSION", "Fil ikke funnet eller du har ikke tilatelse til å laste ned denne filen");
 define("LAN_WEBSITE", "Nettsted");
 define("LAN_COMMENTS", "Kommentarer");
 define("LAN_LOCATION", "Beliggenhet");
